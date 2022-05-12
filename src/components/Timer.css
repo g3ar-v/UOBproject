@@ -1,0 +1,15 @@
+.app {
+  text-align: center;
+  background-color: "inherit";
+  min-height: 100vh;
+  /* display: flex; */
+  /* flex-direction: column; */
+  color: #ffffff;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.time {
+  font-size: 3rem;
+  padding: 2rem;
+}
